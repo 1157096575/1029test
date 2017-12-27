@@ -1,5 +1,4 @@
-﻿# pc
+﻿# WEB
 
 > leancloud
 
-## WEB
